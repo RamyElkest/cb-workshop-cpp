@@ -180,7 +180,7 @@ Don't download the same dependencies, other software will be installed now.
 
 #### C/C++ and Qt
 
-This chapter covers the following topis:
+This chapter covers the following topics:
 
 * Setup of the package repository
 * Setup of a C/C++ development environemnt
