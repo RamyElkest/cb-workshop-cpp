@@ -183,7 +183,7 @@ Don't download the same dependencies, other software will be installed now.
 This chapter covers the following topis:
 
 * Setup of the package repository
-* Setup of a C/C++ development environemnt
+* Setup of a C/C++ development environment
 * Qt5 installation
 * Qt Creator installation
 
